@@ -1,7 +1,7 @@
 {
   "name": "grocery-app-gh-pages",
   "version": "0.1.0",
-  "homepage": "https://andreerosaa.github.io/grocery-app-gh-pages/",
+  "homepage": "https://andreerosaa.github.io/grocery-app-gh-pages",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
